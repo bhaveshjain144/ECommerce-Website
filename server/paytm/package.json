@@ -2,7 +2,7 @@
   "name": "paytmchecksum",
   "description": "This is for paytm checksum creation and verification in node",
   "version": "1.5.0",
-  "author": "Soumya Vats",
+  "author": "Bhavesh Jain",
   "main": "PaytmChecksum.js",
   "keywords": [
     "Paytm",
